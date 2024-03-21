@@ -1,2 +1,2 @@
 # Hackerrank_Writeups
-my personal writeups of some Hackerrank problems
+my personal writeups of some Hackerrank problems | >INTERMEDIATE difficulty 
